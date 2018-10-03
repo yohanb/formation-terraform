@@ -2,3 +2,4 @@
 *.tfstate
 *.tfstate.backup
 beconf.tfvars
+vars.auto.tfvars

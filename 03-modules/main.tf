@@ -20,3 +20,5 @@ module "network-security-group" {
     location                   = "${var.location}"
     security_group_name        = "nsg"
 }
+  
+resource "null_resource" "example" {}
